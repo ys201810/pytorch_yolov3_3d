@@ -1,0 +1,266 @@
+# conf=0.1
++ mAP:0.4124280450762414
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.2729513247073321 
++ Class:0, mean_recall:0.6415640839971035 
++ Class:0, mean_fp:4.8962655601659755 
+finish validation
+
+# conf=0.01
++ mAP:0.3999076021887572
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.2018111254851229 
++ Class:0, mean_recall:0.6777697320782042 
++ Class:0, mean_fp:7.680497925311204 
+finish validation
+
+# conf=0.025
++ mAP:0.41079635406719434
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.22984476715072608 
++ Class:0, mean_recall:0.664735698769008 
++ Class:0, mean_fp:6.381742738589212 
+finish validation
+
+# conf=0.05
++ mAP:0.41142251465943336
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.24924346629986244 
++ Class:0, mean_recall:0.6560463432295438 
++ Class:0, mean_fp:5.661825726141079 
+finish validation
+
+# conf=0.075
++ mAP:0.41263795358771466
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.2631733882837798 
++ Class:0, mean_recall:0.6473569876900797 
++ Class:0, mean_fp:5.1929460580912865 
+finish validation
+
+# conf=0.2
++ mAP:0.41641420811349517
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.2952154733627418 
++ Class:0, mean_recall:0.6299782766111514 
++ Class:0, mean_fp:4.309128630705394 
+finish validation
+
+# conf=0.3
++ mAP:0.41297514102691923
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.31032002876663073 
++ Class:0, mean_recall:0.6249094858797972 
++ Class:0, mean_fp:3.979253112033195 
+finish validation
+
+# conf=0.4
++ mAP:0.4125581012893824
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.3235963581183611 
++ Class:0, mean_recall:0.6176683562635771 
++ Class:0, mean_fp:3.699170124481328 
+finish validation
+
+# conf=0.5
++ mAP:0.40688116273992436
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.3343911146370488 
++ Class:0, mean_recall:0.6104272266473569 
++ Class:0, mean_fp:3.4813278008298756 
+finish validation
+
+# conf=0.6
++ mAP:0.41120711739746574
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.34558216350123866 
++ Class:0, mean_recall:0.6060825488776249 
++ Class:0, mean_fp:3.288381742738589 
+finish validation
+
+# conf=0.7
++ mAP:0.41045656843149364
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.35853131749460043 
++ Class:0, mean_recall:0.6010137581462708 
++ Class:0, mean_fp:3.0809128630705396 
+finish validation
+
+# conf=0.8
++ mAP:0.40360255224170694
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.37454379562043794 
++ Class:0, mean_recall:0.5944967414916728 
++ Class:0, mean_fp:2.8443983402489628 
+finish validation
+
+# conf=0.925
++ mAP:0.40465301954743693
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.4029029029029029 
++ Class:0, mean_recall:0.5829109341057205 
++ Class:0, mean_fp:2.475103734439834 
+finish validation
+
+# conf=0.95
++ mAP:0.39913446234383876
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.4141675284384695 
++ Class:0, mean_recall:0.5800144822592325 
++ Class:0, mean_fp:2.3506224066390042 
+finish validation
+
+# conf=0.975
++ mAP:0.39436699456016217
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.43628269337785197 
++ Class:0, mean_recall:0.5677045619116582 
++ Class:0, mean_fp:2.1016597510373445 
+finish validation
+
+# conf=0.9925
++ mAP:0.3937925719583526
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.4770295783511643 
++ Class:0, mean_recall:0.5488776249094859 
++ Class:0, mean_fp:1.7240663900414939 
+finish validation
+
+# conf=0.995
++ mAP:0.38836903380664356
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.4918247220405494 
++ Class:0, mean_recall:0.5445329471397538 
++ Class:0, mean_fp:1.612033195020747 
+finish validation
+
+# conf=0.9975
++ mAP:0.3868474547363612
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.5118549511854951 
++ Class:0, mean_recall:0.5314989138305576 
++ Class:0, mean_fp:1.4522821576763485 
+finish validation
+
+# conf=0.99925
++ mAP:0.37744353771654293
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.5460170146945089 
++ Class:0, mean_recall:0.5112237509051412 
++ Class:0, mean_fp:1.2178423236514522 
+finish validation
+
+# conf=0.9995
++ mAP:0.3681058939470868
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.5570739549839229 
++ Class:0, mean_recall:0.501810282404055 
++ Class:0, mean_fp:1.1431535269709543 
+finish validation
+
+# conf=0.99975
++ mAP:0.3697578453872882
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.5763293310463122 
++ Class:0, mean_recall:0.4866039102099928 
++ Class:0, mean_fp:1.0248962655601659 
+finish validation
+
+# conf=0.99999925
++ mAP:0.25890625278278195
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.7401960784313726 
++ Class:0, mean_recall:0.3280231716147719 
++ Class:0, mean_fp:0.32987551867219916 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.9999995, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.9999995
++ mAP:0.25060634457371567
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.7411167512690355 
++ Class:0, mean_recall:0.3171614771904417 
++ Class:0, mean_fp:0.31742738589211617 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.99999975, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.99999975
++ mAP:0.23654829467213193
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.7601476014760148 
++ Class:0, mean_recall:0.2983345401882694 
++ Class:0, mean_fp:0.2697095435684647 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.9999999, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.9999999
++ mAP:0.2276431217188165
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.7693798449612403 
++ Class:0, mean_recall:0.28747284576393917 
++ Class:0, mean_fp:0.24688796680497926 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.999999, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.999999
++ mAP:0.2719762721705011
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.7409733124018838 
++ Class:0, mean_recall:0.34178131788559013 
++ Class:0, mean_fp:0.34232365145228216 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.99999, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.99999
++ mAP:0.3153813796533006
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.6774193548387096 
++ Class:0, mean_recall:0.4105720492396814 
++ Class:0, mean_fp:0.5601659751037344 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.9999, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.9999
++ mAP:0.35178112872964823
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.6027906976744186 
++ Class:0, mean_recall:0.4692251991310644 
++ Class:0, mean_fp:0.8858921161825726 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.999, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.999
++ mAP:0.376493207663217
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.5381132075471698 
++ Class:0, mean_recall:0.5162925416364953 
++ Class:0, mean_fp:1.2697095435684647 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.99, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.99
++ mAP:0.3938849909956032
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.4641990291262136 
++ Class:0, mean_recall:0.55394641564084 
++ Class:0, mean_fp:1.8319502074688796 
+finish validation
+
+Namespace(batch_size=8, class_path='/home/shirai/Pytorch_YOLOv3/datasets/chest_imgs/dlesion.names', conf_thres=0.9, context=True, data_config_path='../../training/config/3D1mmchestlesionbright.data', img_size=512, iou_thres=0.1, log_dir='test_log', model_config_path='../../training/config/yolov3-3D.cfg', n_cpu=8, nms_thres=0.1, slice_size=3, use_cuda=True, weights_path='../../training/saved/20190327_080243_annotation_after_context_v1/checkpointsbright/contextv1_final.weights')
+
+# conf=0.9
++ mAP:0.4034039710794327
+Mean Precisions and Recalls
++ Class:0, mean_precision:0.3960975609756098 
++ Class:0, mean_recall:0.5879797248370746 
++ Class:0, mean_fp:2.5684647302904566 
+finish validation
+

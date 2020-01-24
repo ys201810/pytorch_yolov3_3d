@@ -1,0 +1,4 @@
+classes=1
+train=/home/nttd_msi_sm/rtec_CT_hayashi/PyTorch-YOLOv3/data/chest_imgs/brighttraindata.txt
+valid=/home/nttd_msi_sm/rtec_CT_hayashi/PyTorch-YOLOv3/data/chest_imgs/brightvaliddata.txt
+names=/home/nttd_msi_sm/rtec_CT_hayashi/PyTorch-YOLOv3/data/chest_imgs/dlesion.names

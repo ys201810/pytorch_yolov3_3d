@@ -1,0 +1,8 @@
+*.txt
+*.png
+*.PNG
+*.jpg
+*.JPG
+
+/training/model/
+/.idea/
